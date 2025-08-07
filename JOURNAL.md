@@ -3,6 +3,7 @@ title: GCode Grinder
 author: Jeffrey
 description: 3d printed tank
 created_at: 7-29-2025
+hours designing: 13
 ---
 
 
